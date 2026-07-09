@@ -54,7 +54,7 @@ fun_fact: "I automate tasks for hours just to save a few minutes later 😄"
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnd0dTJ1bTQ5c2FsMjA1b2F6em96ZjU2Y3NqY2JhY291cjljb2Q2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xAKhG9iFXynDh2LEg5/giphy.gif)" width="100%"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnd0dTJ1bTQ5c2FsMjA1b2F6em96ZjU2Y3NqY2JhY291cjljb2Q2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xAKhG9iFXynDh2LEg5/giphy.gif" width="100%"/>
 
 </td>
 </tr>
@@ -79,24 +79,8 @@ fun_fact: "I automate tasks for hours just to save a few minutes later 😄"
 <img src="https://img.shields.io/badge/MobileViT--v2-0EA5E9?style=for-the-badge&logo=apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/CNN%20%2F%20Ensemble%20Learning-10B981?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
-### Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,docker,kubernetes,aws&theme=dark"/>
-
-</div>
-
----
-
-## 🕒 WakaTime Weekly Insights
-
-<div align="center">
-
-```text
-Note: Add the WakaTime badge below by connecting your account at wakatime.com
-and adding WAKATIME_API_KEY to your repo's GitHub Actions secrets using the
-"anmol098/waka-readme-stats" workflow. Placeholder shown below.
-```
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mhshanto007&theme=tokyonight&hide_border=true&layout=compact"/>
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,aws&theme=dark"/>
 
 </div>
 
@@ -217,28 +201,6 @@ Hybrid deep learning framework combining Vision Transformer, Swin Transformer, M
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mhshanto007&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mhshanto007&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
-</div>
-
-### 📈 Contribution Calendar (3D)
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/yoshi389111/yoshi389111/main/3d-contrib/profile-green-animate.svg" width="100%"/>
-</div>
-
-> ℹ️ 3D calendar generated via the `yoshi389111/github-profile-3d-contrib` GitHub Action — set it up on your own repo to auto-generate this graphic for your username.
-
-### 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/mhshanto007/mhshanto007/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
----
 
 ## 👀 Profile Insights
 
