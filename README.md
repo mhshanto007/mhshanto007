@@ -54,7 +54,7 @@ fun_fact: "I automate tasks for hours just to save a few minutes later 😄"
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
+<img src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnd0dTJ1bTQ5c2FsMjA1b2F6em96ZjU2Y3NqY2JhY291cjljb2Q2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xAKhG9iFXynDh2LEg5/giphy.gif)" width="100%"/>
 
 </td>
 </tr>
