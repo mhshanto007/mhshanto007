@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000255&height=280&section=header&text=Md.%20Mahedi%20Hassan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20ML%20Researcher%20%7C%20IEEE%20Published%20Author&descAlignY=58&descSize=18#gh-dark-mode-only" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=024155&height=280&section=header&text=Md.%20Mahedi%20Hassan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20ML%20Researcher%20%7C%20IEEE%20Published%20Author&descAlignY=58&descSize=18#gh-light-mode-only" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000255,50:013a63,100:024155&height=280&section=header&text=Md.%20Mahedi%20Hassan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20ML%20Researcher%20%7C%20IEEE%20Published%20Author&descAlignY=58&descSize=18" width="100%"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=750&height=50&lines=Backend+Developer+%7C+Node.js+%26+Express;Machine+Learning+Researcher;IEEE+Published+Author;Computer+Vision+%26+Vision+Transformers;Building+Scalable+%26+Secure+APIs" alt="Typing SVG" />
-
+</div>
 <br/><br/>
 
 <img src="https://custom-icon-badges.demolab.com/badge/-Open%20to%20Work-8B5CF6?style=for-the-badge&logo=briefcase&logoColor=white"/>
@@ -189,10 +185,11 @@ Hybrid deep learning framework combining Vision Transformer, Swin Transformer, M
 <a href="https://facebook.com/mhshanto007"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="mailto:md.mahedi.hs007@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://mhshanto007.netlify.app/contact"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
+</div>
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000255&height=120&section=footer#gh-dark-mode-only" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=024155&height=120&section=footer#gh-light-mode-only" width="100%"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:024155,50:013a63,100:000255&height=120&section=footer" width="100%"/>
 
 </div>
