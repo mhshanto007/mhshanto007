@@ -1,21 +1,12 @@
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Md.%20Mahedi%20Hassan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20ML%20Researcher%20%7C%20IEEE%20Published%20Author&descAlignY=58&descSize=18"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=024155&height=280&section=header&text=Md.%20Mahedi%20Hassan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20ML%20Researcher%20%7C%20IEEE%20Published%20Author&descAlignY=58&descSize=18"
-  />
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=024155&height=280&section=header&text=Md.%20Mahedi%20Hassan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20ML%20Researcher%20%7C%20IEEE%20Published%20Author&descAlignY=58&descSize=18"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=000255&height=280&section=header&text=Md.%20Mahedi%20Hassan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20ML%20Researcher%20%7C%20IEEE%20Published%20Author&descAlignY=58&descSize=18">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=024155&height=280&section=header&text=Md.%20Mahedi%20Hassan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20ML%20Researcher%20%7C%20IEEE%20Published%20Author&descAlignY=58&descSize=18">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=024155&height=280&section=header&text=Md.%20Mahedi%20Hassan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20ML%20Researcher%20%7C%20IEEE%20Published%20Author&descAlignY=58&descSize=18" width="100%"/>
 </picture>
 
+</div>
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=750&height=50&lines=Backend+Developer+%7C+Node.js+%26+Express;Machine+Learning+Researcher;IEEE+Published+Author;Computer+Vision+%26+Vision+Transformers;Building+Scalable+%26+Secure+APIs" alt="Typing SVG" />
@@ -217,12 +208,14 @@ Hybrid deep learning framework combining Vision Transformer, Swin Transformer, M
 
 <br/><br/>
 
-⭐ **If you like my work, consider giving a star to my repositories!** ⭐
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:2563EB,100:5B21B6&height=120&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:2563EB,100:5B21B6&height=120&section=footer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=000255&height=120&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=024155&height=120&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=024155&height=120&section=footer" width="100%"/>
 </picture>
+
+</div>
 
 </div>
