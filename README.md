@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000255,50:013a63,100:024155&height=280&section=header&text=Md.%20Mahedi%20Hassan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20ML%20Researcher%20%7C%20IEEE%20Published%20Author&descAlignY=58&descSize=18" width="100%"/>
 
-</div>
 <br/><br/>
 
 <img src="https://custom-icon-badges.demolab.com/badge/-Open%20to%20Work-8B5CF6?style=for-the-badge&logo=briefcase&logoColor=white"/>
