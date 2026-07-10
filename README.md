@@ -1,9 +1,19 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Md.%20Mahedi%20Hassan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20ML%20Researcher%20%7C%20IEEE%20Published%20Author&descAlignY=58&descSize=18">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,50:2563EB,100:0EA5E9&height=280&section=header&text=Md.%20Mahedi%20Hassan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20ML%20Researcher%20%7C%20IEEE%20Published%20Author&descAlignY=58&descSize=18">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,50:2563EB,100:0EA5E9&height=280&section=header&text=Md.%20Mahedi%20Hassan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20ML%20Researcher%20%7C%20IEEE%20Published%20Author&descAlignY=58&descSize=18" width="100%"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Md.%20Mahedi%20Hassan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20ML%20Researcher%20%7C%20IEEE%20Published%20Author&descAlignY=58&descSize=18"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=024155&height=280&section=header&text=Md.%20Mahedi%20Hassan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20ML%20Researcher%20%7C%20IEEE%20Published%20Author&descAlignY=58&descSize=18"
+  />
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=024155&height=280&section=header&text=Md.%20Mahedi%20Hassan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20ML%20Researcher%20%7C%20IEEE%20Published%20Author&descAlignY=58&descSize=18"
+  />
 </picture>
 
 <br/>
